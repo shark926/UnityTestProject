@@ -1,7 +1,11 @@
 # ignore file in repository
+.vsconfig
 *.sln
+*.csproj
+*.dwlt
+
 # ignore folder
 Library/
 Temp/
+obj/
 .vs/
-
